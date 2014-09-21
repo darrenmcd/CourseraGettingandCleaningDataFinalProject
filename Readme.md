@@ -4,7 +4,7 @@ author: "Darren McDowell"
 date: "September 21, 2014"
 intput: none
 library: plyr
-output: idy data set with the average of each variable for each activity and each subject
+output: Tidy data set with the average of each variable for each activity and each subject
 ---
 
 ```{r}
